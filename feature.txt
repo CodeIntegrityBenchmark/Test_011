@@ -1,1 +1,2 @@
 Initial Commit On the Feature Branch
+Conflicting Commit On feature Branch, conflicting with Sub-Feature
