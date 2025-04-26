@@ -13,7 +13,7 @@ Expected Commits against integrity rules :
 * Create a second commit on the main branch.
 * Create a sub-feature branch based on the feature branch and make a commit on the sub-feature branch
 * Make a commit on the sub-feature that will conflict with feature.
-* Make a commit on the feture branch that also conflicts with sub-feature
+* Make a commit on the feature branch that also conflicts with sub-feature
 * Then rebase it with the sub-feature branch using a PR. Resolve conflicts
 * Create a third commit on the main branch that conflicts with the sub feature branch.
 * Create multiple on the feature branch and then raise a PR and rebase the feature branch with the main branch.
