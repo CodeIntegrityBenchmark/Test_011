@@ -1,2 +1,6 @@
 Initial Commit On the Feature Branch
+<<<<<<< HEAD
 Conflicting Commit On feature Branch, conflicting with Sub-Feature
+=======
+Commit Made On Sub-Feature Branch Conflicting With Feature Branch
+>>>>>>> 1047e2e (Conflicting Commit On Sub Feature Branch)
